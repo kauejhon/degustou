@@ -1,0 +1,16 @@
+#search-box{
+    border-radius: 50px;
+    width: 60%;
+}
+
+#search-button{
+    border-radius: 50px;
+    color: white;
+    background-color: black;
+}
+
+button{
+    border-radius: 50px;
+    color: black;
+    background-color: grey;
+}
