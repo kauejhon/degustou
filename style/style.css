@@ -1,11 +1,11 @@
 #category-filter{
-    color: black;
-    background-color: blueviolet;
+    color: white;
+    background-color: black;
 }
 
 #search-box{
     border-radius: 50px;
-    width: 60%;
+    width: 65%;
 }
 
 #search-button{
