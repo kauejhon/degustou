@@ -1,3 +1,23 @@
+@media only screen and (min-width: 768px) {
+    .desire-list {
+        display: none;
+    }
+
+    .shopping-cart {
+        display: none;
+    }
+
+    .account {
+        display: none;
+    }
+  }
+
+@media only screen and (max-width: 768px) {
+    button p {
+        display: none;
+    }
+}
+
 #category-filter{
     color: white;
     background-color: black;
@@ -15,8 +35,8 @@
 
 body{
     margin: 0;
-    height: 100vh;
-    width: 100vw;
+    height: auto;
+    width: 100%;
 }
 
 button{
