@@ -48,7 +48,7 @@
 }
 
 .search-icon {
-    height: 50px;
+    height: 30px;
     padding: 10px;
     border-radius: 50px;
     width: 0;
@@ -94,14 +94,22 @@
 }
 
 .search-icon:hover > .search-btn-mobile {
-    background: #447ce7;
+    background: #f98124;
+}
+
+button:hover {
+    background-color: #f98124;
 }
 
 body{
     margin: 0;
     height: auto;
     width: 100%;
-    background: orange;
+    background: white;
+}
+
+nav{
+    background: #7acdb9;
 }
 
 button{
